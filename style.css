@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    
+}
+.container{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(212, 130, 22);
+    border: 1px solid black;
+    text-align: center;
+}
+
+input{
+    height: 25px;
+}
+
+
+
+button {
+    padding: 10px;
+    background-color: #476847;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
